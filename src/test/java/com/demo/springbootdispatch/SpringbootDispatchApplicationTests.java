@@ -8,6 +8,7 @@ class SpringbootDispatchApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("111");
     }
 
 }
